@@ -1,5 +1,9 @@
 #miscellanées#
-
+**27/07/2017**
+Fureur la veille.
+Fureur écarlate,
+A qui appartiennent elles donc,
+Ces cinq mauvaises herbes(UN).
 **03/10/2016**
 *Entrant dans la salle ou je prend ma pause en silence:
 Dans la pièce blanche,
@@ -63,7 +67,7 @@ Feu celeste son sourire:
 Qu'est ce l'Amour.
 
 #Femme#
-Ophidienne Hour,
+Ophidienne Houri,
 Ce sourire électrique
 Qu'y caches tu?
 
