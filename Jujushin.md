@@ -5,9 +5,25 @@
   ### 3. Yôdômuishin *(L'Esprit du Petit Enfant qui n'a pas peur)* 
   ## Shômon
   ### Yuionmugashin *(L'Esprit qui ne reconnais que les 5 contituants psycho-physique et pas de Soi)*
-  1. Shitai
-    1.
+  1. Shihoin
+    1. Shogyômujô *(Tout est impermanent)*
+    2. Issaikai *(Tout est Dukkha)*
+    3. Shohomuga *(Tous les existants sont sans essence)*
+    4. Nehanjakujô *(Le Nirvana est la félicité)*
   ## Engaku
+   1. Juniengi
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+    7.
+    8.
+    9.
+    10.
+    11.
+    12.
   ### Batsugoinshushin *(L'Esprit qui arraches les semences karmiques)*
   ## Miroku
   ### Taendaijôshin *(L'Esprit du Mahayana qui reconnnait le relation à autrui)*
