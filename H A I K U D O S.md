@@ -1,21 +1,21 @@
- ## miscellanées#
-** 27/07/2017**
+ ## miscellanées
+**27/07/2017**
 Fureur la veille.
 Fureur écarlate,
 A qui appartiennent elles donc,
 Ces cinq mauvaises herbes(UN).
-** 03/10/2016**
+**03/10/2016**
 * Entrant dans la salle ou je prend ma pause en silence:
 Dans la pièce blanche,
 Odeur de peinture à l'huile.
 Père et ses pinceaux.
 
-** 06/10/2016**
+**06/10/2016**
 Dans le matin frais
 Le levant embrase la nue
 Et réchauffe l'âme.
 
-** 09/10/ 2016**
+**09/10/ 2016**
 Repas du dimanche, Lili joue par terre, nous buvons le thé .
 Aube pastorale
 Dans ce coeur qui palpite
@@ -29,7 +29,7 @@ En bleu, orange, blanc,
 Tourne et se mord dla queue:
 Wagon à bestiaux.
 
-* 14/09/2016**
+**14/09/2016**
 Shai Ulud tonne
 Dans sa robe de chantilly.
 Nuage d'orage
