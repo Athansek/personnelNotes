@@ -1,9 +1,19 @@
 # Jujushin
-## Seken(ce monde)
-## Shômon
-## Engaku
-## Miroku
-## Monju
-## Kannon
-## Fugen
-## Butsuji
+  ## Seken(ce monde)
+    ### Ishôteiyôshin
+    ### Gudôjisaishin
+    ### Yôdômuishin
+  ## Shômon
+    ### Yuionmugashin
+  ## Engaku
+    ### Batsugoinshushin
+  ## Miroku
+    ### Taendaijôshin
+  ## Monju
+    ### Kakushifushishin
+  ## Kannon
+    ### Ichidômuishin
+  ## Fugen
+    ### Gokumujishôshin
+  ## Butsuji
+    ### Himitsushôgonshin
