@@ -1,8 +1,8 @@
 # Jujushin
   ## Seken(ce monde)
-  ### Ishôteiyôshin
-  ### Gudôjisaishin
-  ### Yôdômuishin
+  ### 1. Ishôteiyôshin
+  ### 2. Gudôjisaishin
+  ### 3. Yôdômuishin
   ## Shômon
   ### Yuionmugashin
   ## Engaku
