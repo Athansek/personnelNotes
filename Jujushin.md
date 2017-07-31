@@ -5,11 +5,17 @@
   ### 3. Yôdômuishin *(L'Esprit du Petit Enfant qui n'a pas peur)* 
   ## Shômon
   ### Yuionmugashin *(L'Esprit qui ne reconnais que les 5 contituants psycho-physique et pas de Soi)*
-  1. Shihoin
+  #### 1. Shihoin
     1. Shogyômujô *(Tout est impermanent)*
     2. Issaikai *(Tout est Dukkha)*
     3. Shohomuga *(Tous les existants sont sans essence)*
     4. Nehanjakujô *(Le Nirvana est la félicité)*
+   
+  #### 2.Shitai
+    1. Kutai 苦諦、
+    2. Shutai、
+    3. Mutai 滅諦、
+    4. Dôtai 諦道
   ## Engaku
    1. Juniengi
     1.
