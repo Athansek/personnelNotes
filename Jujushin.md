@@ -1,19 +1,19 @@
 # Jujushin
   ## Seken(ce monde)
-    ### Ishôteiyôshin
-    ### Gudôjisaishin
-    ### Yôdômuishin
+  ### Ishôteiyôshin
+  ### Gudôjisaishin
+  ### Yôdômuishin
   ## Shômon
-    ### Yuionmugashin
+  ### Yuionmugashin
   ## Engaku
-    ### Batsugoinshushin
+  ### Batsugoinshushin
   ## Miroku
-    ### Taendaijôshin
+  ### Taendaijôshin
   ## Monju
-    ### Kakushifushishin
+  ### Kakushifushishin
   ## Kannon
-    ### Ichidômuishin
+  ### Ichidômuishin
   ## Fugen
-    ### Gokumujishôshin
+  ### Gokumujishôshin
   ## Butsuji
-    ### Himitsushôgonshin
+  ### Himitsushôgonshin
