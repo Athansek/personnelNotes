@@ -28,6 +28,7 @@
     8. 正定
    
   ## Engaku
+    ### Batsugoinshushin *(L'Esprit qui arraches les semences karmiques)*
    1. Juniengi
     1.
     2.
@@ -41,9 +42,10 @@
     10.
     11.
     12.
-  ### Batsugoinshushin *(L'Esprit qui arraches les semences karmiques)*
+
   ## Miroku
   ### Taendaijôshin *(L'Esprit du Mahayana qui reconnnait le relation à autrui)*
+  Odaishisama:Muenkihii->Donner naissance à la charité induite par le sans relation. Il ny'a pas de différence entre moi et autrui
   ## Monju
   ### Kakushifushishin *(L'Esprit qui comprend que l'Esprit est in-créé)* 
   ## Kannon
