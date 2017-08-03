@@ -29,7 +29,7 @@
    
   ## Engaku
     ### Batsugoinshushin *(L'Esprit qui arraches les semences karmiques)*
-   1. Juniengi
+   #### Juniengi
     1. 無明 (avidyā) nescience (ignorance, unenlightenment);
     2. 行 (saṃskāra), action-intentions; action, activity, conception, karmic predispositions
     3.識 (vijñāna) consciousness;
