@@ -30,19 +30,18 @@
   ## Engaku
     ### Batsugoinshushin *(L'Esprit qui arraches les semences karmiques)*
    1. Juniengi
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-    7.
-    8.
-    9.
-    10.
-    11.
-    12.
-
+    1. 無明 (avidyā) nescience (ignorance, unenlightenment);
+    2. 行 (saṃskāra), action-intentions; action, activity, conception, karmic predispositions
+    3.識 (vijñāna) consciousness;
+    4. 名色 (nāmarūpa) name and form;
+    5. 六處 (ṣaḍāyatana) the six-fold sphere of sense contact;
+    6. 觸 (sparśa) contact;
+    7. 受 (vedanā) sensation, feeling;
+    8. 愛 (tṛṣṇā) thirst, desire, craving;
+    9. 取 (upadāna) grasping, appropriation;
+    10. 有 (bhāva) becoming, being, existing;
+    11. 生 (jāti) birth;
+    12. 老死 (jarāmaraṇa) old age and death (impermanence).
   ## Miroku
   ### Taendaijôshin *(L'Esprit du Mahayana qui reconnnait le relation à autrui)*
   Odaishisama:Muenkihii->Donner naissance à la charité induite par le sans relation. Il ny'a pas de différence entre moi et autrui
