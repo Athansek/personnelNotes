@@ -55,7 +55,7 @@
   ## Monju
   ### Kakushifushishin *(L'Esprit qui comprend que l'Esprit est in-créé)* 
   ## Kannon
-  ### Ichidômuishin *(L'Esprit qui admet la Voie et la Non-action)*
+  ### Ichidômuishin *(L'Esprit qui admet Une Voie et la Non-action)*
   ## Fugen
   ### Gokumujishôshin *(L'Esprit qui étudie la Nature-du Non-Soi)*
   ## Butsuji
