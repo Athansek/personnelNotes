@@ -8,3 +8,10 @@ Dans son "*Gorinkujimyôhishaku*", Kôgyo Daishi Kakuban désigne explicitement 
 Le terme "*Shingon*" fait référence à une Tradition Bouddhique japonaise relativment bien connue. Le terme "*Mikkyô*", lui, est nettement plus obscur et mérite un éclaircissement.
 
 Nous nous proposons de faire une analyse de ce terme sous un rapport symbolique et phonétique. Ainsi il sera peut être possible d'en connaître le sens.
+## Analyse graphique
+### 密
+### 教
+
+## Analyse phonétique
+### Mitsu
+### Kyô
