@@ -10,7 +10,17 @@ Le terme "*Shingon*" fait référence à une Tradition Bouddhique japonaise rela
 Nous nous proposons de faire une analyse de ce terme sous un rapport symbolique et phonétique. Ainsi il sera peut être possible d'en connaître le sens.
 ## Analyse graphique
 ### 密
+Cet idéogramme ce décompose en 山, 心, 丶et 宀. Ces composants signifient respectivement:
+- 山:montagne
+- 心:le coeur (qui est le siège de l'esprit)
+- 丶:
+- 宀: 
 ### 教
+
+Cet idéogramme ce décompose en 子, ⺹ et 攵. Ces composants signifient respectivement:
+- 子
+- ⺹
+- 攵
 
 ## Analyse phonétique
 ### Mitsu
