@@ -9,6 +9,7 @@ Le terme "*Shingon*" fait référence à une Tradition Bouddhique japonaise rela
 
 Nous nous proposons de faire une analyse de ce terme sous un rapport symbolique et phonétique. Ainsi il sera peut être possible d'en connaître le sens.
 ## Analyse graphique
+Le graphème "密教" (mikkyô) est composé de deux parties:密 et 教.
 ### 密
 Cet idéogramme ce décompose en 山, 心, 丶et 宀. Ces composants signifient respectivement:
 - 山:montagne
