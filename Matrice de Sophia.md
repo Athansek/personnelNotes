@@ -8,7 +8,8 @@
 > De bleus des nuits des matins des midis  
 > Et des infinis qui nous contemplent  
 > Scintillant de ci de là  
-> Par hasard et malgré nous.  
+> Par hasard et malgré nous.
+>
 > Mille fois quel sot suis-je,  
 > En toi nulle image de profondeur fertile,  
 > Parceque tu nous enserre dans ton camaieu  
