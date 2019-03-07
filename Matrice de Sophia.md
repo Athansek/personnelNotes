@@ -1,4 +1,3 @@
-> Jonquille,  
 > Belle, dans la friche  
 > D'un coin de l'hort.  
 > Cerruléene, jaune pourtant.  
@@ -8,12 +7,15 @@
 > De bleus des nuits des matins des midis  
 > Et des infinis qui nous contemplent  
 > Scintillant de ci de là  
-> Par hasard et malgré nous.
+> Par hasards, malgré nous.
 >
+>Passant les heures trottent
+>En décoctions subreptices
+>Jusqu'au gong aphone qui tonne:
 > Mille fois quel sot suis-je,  
 > En toi nulle image de profondeur fertile,  
-> Parceque tu nous enserre dans ton camaieu  
+> Parce que tu nous enserres dans ton camaieu  
 > De bleus des nuits des matins des midis  
 > Et des infinis qui nous contemplent  
 > Scintillant de ci de là  
-> Par hasard et malgré nous.  
+> Par hasards, malgré nous.  
