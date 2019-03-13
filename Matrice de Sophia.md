@@ -9,9 +9,9 @@
 > Scintillant de ci de là  
 > Par hasards, malgré nous.
 >
->Passant les heures trottent
->En décoctions subreptices
->Jusqu'au gong aphone qui tonne:
+>Passant les heures trottent  
+>En décoctions subreptices  
+>Jusqu'au gong aphone qui tonne:  
 > Mille fois quel sot suis-je,  
 > En toi nulle image de profondeur fertile,  
 > Parce que tu nous enserres dans ton camaieu  
