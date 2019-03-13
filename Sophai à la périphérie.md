@@ -1,3 +1,5 @@
+# Sophia à la périphérie
+
 > Belle, dans la friche  
 > D'un coin de l'hort.  
 > Cerruléene, jaune pourtant.  
@@ -10,7 +12,7 @@
 > Par hasards, malgré nous.
 >
 >Passant les heures trottent  
->En décoctions subreptices  
+>En décoctions subreptices.  
 >Jusqu'au gong aphone qui tonne:  
 > Mille fois quel sot suis-je,  
 > En toi nulle image de profondeur fertile,  
